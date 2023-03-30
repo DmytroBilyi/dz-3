@@ -1,0 +1,36 @@
+university:
+  student:
+    group: AP-2
+    title:
+      lang: eng
+      class: Chemistry
+    name:
+      page: http://jessi.com
+      name: Jessi Pinkman
+    birth: 1994-12-27
+    rating:
+      enabled: true
+      rat: 9.3
+       isGood: true
+    age: 22
+    files: [Test1, Test2]
+    otherInfo: null
+    teachers:
+     - "teacher1"
+     - "teacher1"
+  student2:
+    group: AP-2
+    isNew: false
+    title:
+      lang: ua
+      class: Math
+    name:
+      page: http://taras.com
+      "name: Taras Shevchenko
+    birth: 1992-12-10
+    rating:
+      enabled: false
+      rat: 12.0
+    age: 25
+    files: [T1, T2]
+    otherInfo: null

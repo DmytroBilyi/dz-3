@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+ <student group="AP-2">
+ <title lang="eng">Chemistry</title>
+ <name page="http://jessi.com">Jessi Pinkman</name>
+ <birth>1994-12-27</birth>
+ <rating enabled="true">9.3</rating>
+ <isNull></isNull>
+ <age>22</age>
+ <classes>
+   <class1>Class1</class1>
+   <class2>Class2</class2>
+ </classes>
+ <start>2002-09-24-06:00</start>
+ <age>22</age>
+ </student>
+ <student2 group="AP-2" isNew='false'>
+ <title lang="ua">Math</title>
+ <name page="http://taras.com">Taras Shevchenko</name>
+ <birth>1992-12-10</birth>
+ <rating enabled="false">12.0</rating>
+ <age>25</age>
+ <isNull></isNull>
+  <classes>
+   <class1>Class1</class1>
+   <class2>Class2</class2>
+ </classes>
+ <start>2002-09-22-06:00</start>
+ </student2>
+</university>
+</xml>

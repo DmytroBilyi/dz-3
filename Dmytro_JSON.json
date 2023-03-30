@@ -1,0 +1,30 @@
+{
+  "university": {
+    "student": {
+      "title": "Chemistry",
+      "name": "Jessi Pinkman",
+      "birth": "1994-12-27",
+      "rating": 9.3,
+      "age": 22
+	  "otherInfo": null,
+	  "address": {
+         "country": "Ukraine",
+         "city": "Kharkiv",
+         "postal": true
+      }
+      "page": "http://jessi.com"
+	  "required": ["id", "name", "class"]
+	  "start": "2002-09-24"
+    },
+    "student2": {
+      "title": "Math",
+      "name": "Taras Shevchenko",
+      "birth": "1992-12-10",
+      "rating": 12,
+      "age": 25
+	  "page": "http://taras.com"
+	  "required": ["age", "name", "class"]
+	  "start": "2003-01-24"
+    }
+  }
+}
